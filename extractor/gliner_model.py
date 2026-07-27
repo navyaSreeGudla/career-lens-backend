@@ -18,7 +18,7 @@ class GLiNERExtractor:
         "NestJS",
     ]
 
-    def __init__(self, model_name="urchade/gliner_large-v2.1"):
+    def __init__(self, model_name="urchade/gliner_medium-v2.1"):
 
         self.model = GLiNER.from_pretrained(model_name)
 
