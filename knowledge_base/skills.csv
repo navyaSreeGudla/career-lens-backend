@@ -1,0 +1,111 @@
+skill_id,skill_name,category_id,explicit,description
+S001,Python,CAT01,TRUE,General-purpose high-level programming language
+S002,JavaScript,CAT01,TRUE,Dynamic scripting language for web development
+S003,TypeScript,CAT01,TRUE,Strongly typed superset of JavaScript
+S004,Go,CAT01,TRUE,Statically typed compiled language designed at Google
+S005,Rust,CAT01,TRUE,Systems programming language focused on safety and performance
+S006,Java,CAT01,TRUE,Class-based object-oriented programming language
+S007,React,CAT02,TRUE,JavaScript library for building user interfaces
+S008,Vue.js,CAT02,TRUE,Progressive JavaScript framework for frontend apps
+S009,Angular,CAT02,TRUE,TypeScript-based web application framework
+S010,Next.js,CAT02,TRUE,React framework for production with SSR capabilities
+S011,Django,CAT02,TRUE,High-level Python web framework
+S012,FastAPI,CAT02,TRUE,Modern high-performance web framework for Python APIs
+S013,Node.js,CAT02,TRUE,JavaScript runtime environment executing code outside a browser
+S014,Docker,CAT03,TRUE,Platform designed to create deploy and run applications using containers
+S015,Kubernetes,CAT03,TRUE,Open-source container orchestration system
+S016,Terraform,CAT03,TRUE,Infrastructure as Code tool for building and changing infrastructure safely
+S017,GitHub Actions,CAT03,TRUE,CI/CD automation platform integrated into GitHub
+S018,Ansible,CAT03,TRUE,Open-source IT automation engine for configuration management
+S019,PostgreSQL,CAT04,TRUE,Powerful open-source object-relational database system
+S020,MongoDB,CAT04,TRUE,Source-available document-oriented NoSQL database
+S021,Redis,CAT04,TRUE,In-memory data structure store used as a database cache and message broker
+S022,Amazon Web Services,CAT05,TRUE,Comprehensive evolving cloud computing platform provided by Amazon
+S023,Google Cloud Platform,CAT05,TRUE,Suite of cloud computing services offered by Google
+S024,Microsoft Azure,CAT05,TRUE,Cloud computing platform and infrastructure managed by Microsoft
+S025,PyTorch,CAT06,TRUE,Open-source machine learning library based on the Torch library
+S026,TensorFlow,CAT06,TRUE,End-to-end open-source platform for machine learning
+S027,Apache Kafka,CAT07,TRUE,Distributed event store and stream-processing platform
+S028,GraphQL,CAT07,TRUE,Data query and manipulation language for APIs
+S029,Scikit-learn,CAT06,TRUE,Machine learning library for the Python programming language
+S030,Hugging Face Transformers,CAT06,TRUE,State-of-the-art natural language processing and transformer models library
+S031,LangChain,CAT06,TRUE,Framework for developing applications powered by large language models
+S032,Computer Vision,CAT06,TRUE,Field of artificial intelligence enabling computers to derive information from images
+S033,Natural Language Processing,CAT06,TRUE,Field of AI focused on the interaction between computers and human language
+S034,Deep Learning,CAT06,TRUE,Subfield of machine learning based on artificial neural networks
+S035,MLOps,CAT06,TRUE,Practices for deploying and maintaining machine learning models reliably
+S036,Vector Databases,CAT06,TRUE,Databases optimized for storing and querying high-dimensional vector embeddings
+S039,Operating Systems,CAT08,TRUE,System software that manages computer hardware software resources and common services
+S040,Computer Networks,CAT08,TRUE,Digital telecommunications network allowing nodes to share resources
+S041,Object-Oriented Design,CAT08,TRUE,Planning a system of interacting objects for the purpose of solving a software problem
+S042,System Design,CAT08,TRUE,Process of defining the architecture modules interfaces and data for a system
+S043,Database Management Systems,CAT08,TRUE,Software system used to store retrieve and run queries on data
+S044,Memory Management,CAT08,TRUE,Process of controlling and coordinating computer memory operations
+S045,Linux Administration,CAT09,TRUE,Managing operating system configurations user permissions and security patches
+S046,Network Security,CAT09,TRUE,Policies and practices adopted to prevent and monitor unauthorized access to networks
+S047,CI/CD Pipelines,CAT03,TRUE,Automated pipeline methods to deliver software updates continuously
+S048,Shell Scripting,CAT01,TRUE,Writing programs to be executed by a command-line interpreter or Unix shell
+S049,C++,CAT01,TRUE,High-performance compiled language used in systems design and gaming engines
+S050,C#,CAT01,TRUE,Modern object-oriented programming language developed by Microsoft
+S051,Kotlin,CAT01,TRUE,Statically typed programming language used for modern Android development
+S052,Swift,CAT01,TRUE,Compiled programming language developed by Apple for iOS and macOS ecosystems
+S053,Scala,CAT01,TRUE,Functional and object-oriented programming language built on the JVM
+S054,Ruby,CAT01,TRUE,Dynamic open-source programming language focused on simplicity and productivity
+S055,Reinforcement Learning,CAT06,TRUE,Area of machine learning concerned with how intelligent agents take actions in environments
+S056,Computer Vision APIs,CAT06,TRUE,Cloud interfaces providing visual recognition object detection and analysis
+S057,Feature Engineering,CAT06,TRUE,Process of using domain knowledge to extract features from raw data for ML models
+S058,Hyperparameter Tuning,CAT06,TRUE,Optimizing the parameters that govern the training process of a machine learning model
+S059,Generative AI,CAT06,TRUE,Artificial intelligence capable of generating text images or other media using generative models
+S060,Cassandra,CAT04,TRUE,Distributed NoSQL database management system designed to handle large amounts of data
+S061,Elasticsearch,CAT04,TRUE,Distributed search and analytics engine built on Apache Lucene
+S062,Neo4j,CAT04,TRUE,Native graph database management system designed to manage graph-structured data
+S063,DynamoDB,CAT04,TRUE,Fully managed proprietary NoSQL database service offered by Amazon Web Services
+S064,Apache Spark,CAT07,TRUE,Open-source unified analytics engine for large-scale data processing
+S065,Apache Flink,CAT07,TRUE,Open-source stream-processing framework for distributed data processing
+S066,dbt (Data Build Tool),CAT07,TRUE,Development framework that combines SQL compilation and software engineering for data transformation
+S067,Airflow,CAT07,TRUE,Open-source platform to programmatically author schedule and monitor workflows
+S068,OAuth 2.0,CAT10,TRUE,Industry-standard framework for authorization enabling secure third-party integration
+S069,SAML,CAT10,TRUE,Open standard for exchanging authentication and authorization data between parties
+S070,Penetration Testing,CAT10,TRUE,Authorized simulated cyberattack on a computer system performed to evaluate security
+S071,Cryptography,CAT10,TRUE,Practice and study of techniques for secure communication in the presence of adversarial behavior
+S072,IAM (Identity and Access Management),CAT10,TRUE,Framework of business processes policies and technologies that facilitates electronic identities management
+S073,Tailwind CSS,CAT11,TRUE,Utility-first CSS framework for rapid UI development
+S074,Webpack,CAT11,TRUE,Open-source JavaScript module bundler designed for modern frontend applications
+S075,Vite,CAT11,TRUE,Local development server and frontend build tool offering fast compilation
+S076,Redux,CAT11,TRUE,Predictable state container library designed for JavaScript applications
+S077,Data Structures and Algorithms,CAT08,TRUE,Data organization management and storage formats that enable efficient access and algorithms 
+S078,HTML,CAT12,TRUE,Standard markup language used for creating the structure and core content of web pages
+S079,HTML5,CAT12,TRUE,Latest major revision of the HTML standard introducing native multimedia elements and semantic tags
+S080,CSS,CAT12,TRUE,Style sheet language used for describing the presentation visual layout and formatting of documents
+S081,CSS3,CAT12,TRUE,Modern evolution of CSS split into modules introducing animations transitions flexbox and grid layouts
+S082,SASS,CAT12,TRUE,Preprossessor scripting language that compiles into CSS providing features like variables and nested rules
+S083,SCSS,CAT12,TRUE,Syntax variant of SASS that is fully compatible with standard CSS block formatting and semicolons
+S084,Bootstrap,CAT12,TRUE,Open-source frontend framework designed for rapid responsive and mobile-first web development
+S085,Material UI,CAT12,TRUE,React component library implementing Googles Material Design principles for pre-built UI elements
+S086,jQuery,CAT12,TRUE,Feature-rich JavaScript library designed to simplify HTML DOM manipulation event handling and animation
+S087,AJAX,CAT12,TRUE,Web development technique using JavaScript to send and retrieve data asynchronously without reloading the page
+S088,REST API,CAT12,TRUE,Application programming interface architecture that uses HTTP requests to manage and transfer data states
+S089,RESTful APIs,CAT12,TRUE,Web services built specifically in accordance with the architectural constraints and principles of REST
+S090,WebSockets,CAT12,TRUE,Communication protocol providing full-duplex persistent communication channels over a single TCP connection
+S091,MySQL,CAT04,TRUE,Open-source relational database management system based on SQL optimized for web applications
+S092,SQL,CAT08,TRUE,Standard domain-specific language used for managing data held in relational database management systems
+S093,SQLite,CAT04,TRUE,C-language library providing a lightweight serverless self-contained database engine
+S094,Microsoft SQL Server,CAT04,TRUE,Proprietary relational database management system designed for enterprise-level data storage and analysis
+S095,Oracle Database,CAT04,TRUE,Multi-model relational database management system designed for enterprise grid computing and large-scale workloads
+S096,MariaDB,CAT04,TRUE,Open-source relational database management system developed as a backward-compatible community fork of MySQL
+S097,Firebase,CAT04,TRUE,Comprehensive cloud-based development platform offering NoSQL real-time databases and backend services
+S098,Supabase,CAT04,TRUE,Open-source Firebase alternative providing an instant backend built on a PostgreSQL relational database
+S099,Git,CAT13,TRUE,Distributed version control system designed to track changes in source code during software development
+S100,GitLab,CAT13,TRUE,Web-based DevOps lifecycle tool providing git repositories wiki issue-tracking and CI/CD pipelines
+S101,Bitbucket,CAT13,TRUE,Git-based repository management service designed for professional teams using Jira integration
+S102,VS Code,CAT13,TRUE,Lightweight open-source code editor developed by Microsoft with extensive extension support
+S103,Visual Studio,CAT13,TRUE,Comprehensive integrated development environment designed for heavy .NET and C++ enterprise applications
+S104,IntelliJ IDEA,CAT13,TRUE,Ergonomic integrated development environment optimized for Java and Kotlin development
+S105,PyCharm,CAT13,TRUE,Dedicated integrated development environment tailored specifically for Python development and data science
+S106,Eclipse,CAT13,TRUE,Extensible open-source integrated development environment widely used for Java application development
+S107,NetBeans,CAT13,TRUE,Development environment framework and integrated development environment primarily for Java PHP and HTML5
+S108,Jupyter Notebook,CAT13,TRUE,Web-based interactive computing environment for creating documents containing live code and data visualizations
+S109,Google Colab,CAT13,TRUE,Cloud-based Jupyter notebook environment allowing remote execution of Python code with free GPU access
+S110,Postman,CAT13,TRUE,API platform for building testing and managing application programming interfaces through an interactive UI
+S111,Swagger,CAT13,TRUE,Suite of open-source tools built around the OpenAPI Specification for designing and documenting REST APIs
+ 

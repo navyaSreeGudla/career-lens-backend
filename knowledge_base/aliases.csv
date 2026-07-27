@@ -1,0 +1,122 @@
+alias,skill_id
+py,S001
+python programming,S001
+python3,S001
+python 3,S001
+cpython,S001
+js,S002
+javascript,S002
+es6,S002
+ecmascript,S002
+ts,S003
+typescript,S003
+golang,S004
+go lang,S004
+rustlang,S005
+rust-lang,S005
+java ee,S006
+openjdk,S006
+reactjs,S007
+react.js,S007
+react native,S007
+vue,S008
+vuejs,S008
+vue.js,S008
+angularjs,S009
+angular.js,S009
+angular 2+,S009
+nextjs,S010
+next.js,S010
+django framework,S011
+fast-api,S012
+node,S013
+nodejs,S013
+node.js,S013
+docker containers,S014
+dockerfile,S014
+k8s,S015
+kube,S015
+k8es,S015
+tf,S016
+terraform iac,S016
+gha,S017
+github-actions,S017
+postgres,S019
+postgresql,S019
+psql,S019
+mongo,S020
+mongodb,S020
+aws,S022
+amazon cloud,S022
+gcp,S023
+google cloud,S023
+azure,S024
+ms azure,S024
+pytorch,S025
+tensorflow,S026
+tf.keras,S026
+tensor flow,S026
+kafka,S027
+gql,S028
+sklearn,S029
+scikit learn,S029
+huggingface,S030
+hf transformers,S030
+langchain,S031
+cv,S032
+vision systems,S032
+nlp,S033
+text mining,S033
+dl,S034
+neural networks,S034
+dnn,S034
+ml ops,S035
+machine learning operations,S035
+vector db,S036
+vector stores,S036
+dsa,S037
+data-structures,S037
+algo,S038
+complex algorithms,S038
+os,S039
+kernel compilation,S039
+distributed systems design,S042
+high availability design,S042
+linux,S045
+rhel,S045
+ubuntu server,S045
+ci/cd,S047
+continuous integration,S047
+cicd,S047
+bash,S048
+sh script,S048
+zsh,S048
+cpp,S049
+c plus plus,S049
+c++,S049
+c-sharp,S050
+csharp,S050
+genai,S059
+gen-ai,S059
+llms,S059
+large language models,S059
+elastic,S061
+elk stack,S061
+pyspark,S064
+spark,S064
+apache airflow,S067
+oauth,S068
+oauth2,S068
+identity management,S072
+access control,S072
+tailwind,S073
+redux-toolkit,S076
+rtk,S076
+React,S007
+ML,S113
+machine learning,S113
+Machine Learning,S113
+Algorithms,S077
+Algorithm Design,S077
+Machine learning Algorithms,S113
+Data structures,S077

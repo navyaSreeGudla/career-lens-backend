@@ -1,0 +1,77 @@
+child_skill,parent_concept
+BFS,Data Structures and Algorithms
+DFS,Data Structures and Algorithms
+Dijkstra,Data Structures & Algorithms
+A*,Data Structures & Algorithms
+Bellman-Ford,Data Structures & Algorithms
+Floyd-Warshall,Data Structures & Algorithms
+Logistic Regression,Machine Learning
+Linear Regression,Machine Learning
+Decision Tree,Machine Learning
+Random Forest,Machine Learning
+Support Vector Machine,Machine Learning
+Naive Bayes,Machine Learning
+K-Means,Machine Learning
+DBSCAN,Machine Learning
+TensorFlow,Machine Learning
+PyTorch,Machine Learning
+Scikit-learn,Machine Learning
+React,Frontend Development
+Angular,Frontend Development
+Vue,Frontend Development
+HTML,Frontend Development
+CSS,Frontend Development
+Docker,Containerization
+Kubernetes,Containerization
+Pandas,Data Analysis
+NumPy,Data Analysis
+Matplotlib,Data Visualization
+Seaborn,Data Visualization
+PostgreSQL,Database Management
+MySQL,Database Management
+MongoDB,Database Management
+Redis,Caching
+JWT,Authentication
+OAuth,Authentication
+RabbitMQ,Message Queues
+Kafka,Distributed Systems
+REST API,Backend Development
+FastAPI,Backend Development
+Django,Backend Development
+Flask,Backend Development
+Machine Learning,Machine Learning
+Supervised Learning,Machine Learning
+Unsupervised Learning,Machine Learning
+Reinforcement Learning,Machine Learning
+NumPy,Machine Learning
+Pandas,Machine Learning
+Matplotlib,Machine Learning
+Seaborn,Machine Learning
+OpenCV,Machine Learning
+XGBoost,Machine Learning
+LightGBM,Machine Learning
+TF-IDF,Machine Learning
+Word2Vec,Machine Learning
+GloVe,Machine Learning
+BERT,Machine Learning
+Support Vector Machine,Machine Learning
+Random Forest,Machine Learning
+Decision Tree,Machine Learning
+Logistic Regression,Machine Learning
+Linear SVC,Machine Learning
+Linear Regression,Machine Learning
+Naive Bayes,Machine Learning
+KNN,Machine Learning
+Dynamic Programming,Data Structures and Algorithms
+Greedy Algorithms,Data Structures and Algorithms
+Backtracking,Data Structures and Algorithms
+Recursion,Data Structures and Algorithms
+Trees,Data Structures and Algorithms
+Graphs,Data Structures and Algorithms
+Hash Tables,Data Structures and Algorithms
+Stacks,Data Structures and Algorithms
+Queues,Data Structures and Algorithms
+Linked Lists,Data Structures and Algorithms
+Binary Search,Data Structures and Algorithms
+Trie,Data Structures and Algorithms
+Heap,Data Structures and Algorithms

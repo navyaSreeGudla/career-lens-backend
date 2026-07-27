@@ -1,0 +1,20 @@
+skill_id,type,title,url
+S001,Documentation,Python Official Documentation,https://docs.python.org/3/
+S002,Documentation,MDN Web Docs - JavaScript,https://developer.mozilla.org/en-US/docs/Web/JavaScript
+S003,Documentation,TypeScript Handbook,https://www.typescriptlang.org/docs/handbook/intro.html
+S004,Documentation,Go Documentation,https://go.dev/doc/
+S005,Documentation,The Rust Programming Language Book,https://doc.rust-lang.org/book/
+S007,Documentation,React Official Documentation,https://react.dev
+S013,Documentation,Node.js Documentation,https://nodejs.org/en/docs/
+S014,Documentation,Docker Documentation,https://docs.docker.com
+S015,Documentation,Kubernetes Documentation,https://kubernetes.io/docs/
+S016,Documentation,Terraform Registry & Docs,https://developer.hashicorp.com/terraform/docs
+S019,Documentation,PostgreSQL Manual,https://www.postgresql.org/docs/
+S022,Documentation,AWS Documentation,https://docs.aws.amazon.com
+S025,Documentation,PyTorch Documentation,https://pytorch.org/docs/
+S026,Documentation,TensorFlow API Guide,https://www.tensorflow.org/api_docs
+S030,Documentation,Hugging Face Course & Docs,https://huggingface.co/docs/transformers/
+S031,Documentation,LangChain Documentation,https://python.langchain.com/docs/
+S042,Reading,System Design Primer,https://github.com/donnemartin/system-design-primer
+S047,Tutorial,CI/CD Fundamentals Guide,https://about.gitlab.com/topics/ci-cd/
+S059,Course,Google Generative AI Learning Path,https://www.cloudskillsboost.google/paths/118

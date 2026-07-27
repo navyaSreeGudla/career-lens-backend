@@ -1,0 +1,17 @@
+from span_marker import SpanMarkerModel
+
+model = SpanMarkerModel.from_pretrained(
+    "tomaarsen/span-marker-roberta-large-ontonotes5"
+)
+
+text = """
+Designed and implemented a microservices-based backend using Spring Boot,
+Kafka, Redis, Docker and Kubernetes.
+Deployed applications on AWS using EC2 and S3.
+Built CI/CD pipelines with GitHub Actions and Jenkins.
+"""
+
+entities = model.predict(text)
+
+for entity in entities:
+    print(entity)

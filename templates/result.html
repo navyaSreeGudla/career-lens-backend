@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Analysis Result</title>
+</head>
+
+<body>
+
+    <h1>Career Lens Results</h1>
+
+    <h2>Resume Skills</h2>
+    <ul>
+        {% for skill in resume_skills %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Job Description Skills</h2>
+    <ul>
+        {% for skill in jd_skills %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Match Score</h2>
+    <p>{{ score }}%</p>
+     <h2>Project Relevance</h2>
+      <p>{{ project_score }}%</p>
+
+      <h2>Experience Relevance</h2>
+       <p>{{ experience_score }}%</p>
+    <h2>Missing Skills</h2>
+    <ul>
+        {% for skill in missing %}
+            <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+     <h2>Recommendations</h2>
+
+{% for recommendation in recommendations %}
+
+<h3>{{ recommendation.skill|title }}</h3>
+
+<p>
+<b>Advice:</b>
+{{ recommendation.advice }}
+</p>
+
+<p>
+<b>Suggested Project:</b>
+{{ recommendation.project }}
+</p>
+
+<p>
+<b>Learning Resource:</b>
+{{ recommendation.resource }}
+</p>
+
+<hr>
+
+{% endfor %}
+<h2>Requirement Analysis</h2>
+
+<table border="1">
+<tr>
+    <th>JD Skill</th>
+    <th>Status</th>
+    <th>Found In</th>
+    <th>Score</th>
+</tr>
+
+{% for item in analysis %}
+<tr>
+    <td>{{ item.jd_skill }}</td>
+    <td>{{ item.status }}</td>
+    <td>{{ item.found_in }}</td>
+    <td>{{ item.score }}%</td>
+</tr>
+{% endfor %}
+
+</table>
+</body>
+
+</html>

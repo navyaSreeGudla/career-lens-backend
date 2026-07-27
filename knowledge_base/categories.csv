@@ -1,0 +1,14 @@
+category_id,category_name
+CAT01,Programming Language
+CAT02,Frameworks & Runtimes
+CAT03,DevOps & Infrastructure
+CAT04,Databases & Storage
+CAT05,Cloud Platforms
+CAT06,AI & Machine Learning
+CAT07,Architecture & Data Engineering
+CAT08,Computer Fundamentals & Core Science
+CAT09,IT & Systems Operations
+CAT10,CyberSecurity & Identity
+CAT11,Web Frontend Engineering Systems
+CAT12,Web Technologies
+CAT13,Development Tools
