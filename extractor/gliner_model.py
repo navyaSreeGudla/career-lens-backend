@@ -13,12 +13,11 @@ class GLiNERExtractor:
         "React.js",
         "Next.js",
         "Express.js",
-        "Vue.js",
-        "Nuxt.js",
-        "NestJS",
+        "Vue.js"
+        "NextJS",
     ]
 
-    def __init__(self, model_name="urchade/gliner_medium-v2.1"):
+    def __init__(self, model_name="urchade/gliner_small-v2.1"):
 
         self.model = GLiNER.from_pretrained(model_name)
 
